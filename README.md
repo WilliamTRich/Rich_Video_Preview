@@ -1,0 +1,1 @@
+# An assignment with given code, to practice more mouse events with videos.
